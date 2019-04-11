@@ -4,4 +4,16 @@
     <TargetFramework>net35</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="UnityEditor">
+      <HintPath>..\..\ライブラリ\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\ライブラリ\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\ライブラリ\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
