@@ -11,7 +11,7 @@ using UnityEngine;
 
 
 
-namespace Serialize
+namespace Yuuki
 {
     /// <summary>
     /// 視覚化したいテーブルの基底クラス
